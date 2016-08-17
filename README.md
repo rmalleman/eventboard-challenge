@@ -42,4 +42,4 @@ All unit tests are in meeting_times_test.py and wordcount_test.py
 
 ## Additional Notes
 
-Initially I tried to parallelize word count using the multiprocessing module but I wasn't getting any performance gains, even on large files. I suspect this is due to how expensive it is to aggregate the results
+Initially I tried to parallelize word count using the multiprocessing module but I wasn't getting any performance gains, even on large files. I suspect this is due to how expensive it is to aggregate the results.  The only pep8 rule I didn't adhere to is the 79 character line length.

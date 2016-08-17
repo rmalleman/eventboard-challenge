@@ -11,7 +11,7 @@ from setuptools import setup, find_packages
 setup(
     name='eventboard_challenge',
     description='Eventboard Coding challenge.',
-    url='https://github.com/rmalleman/python-libvin',
+    url='https://github.com/rmalleman/eventboard-challenge',
     author='Matt Alleman',
     author_email='rmalleman@gmail.com',
     maintainer='Matt Alleman',

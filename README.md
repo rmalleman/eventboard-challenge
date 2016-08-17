@@ -24,7 +24,6 @@ should output
 
 You can also process a text file using the file switch
 
-
 ## meeting-times.py
 
 To condense integer or unix timestamp meeting times

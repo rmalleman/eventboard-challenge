@@ -34,6 +34,7 @@ for iso 3601 timestamps
 
 <pre><code>$ meeting-times.py --string_meeting 2010-05-08T00:41:54.000000Z,2010-05-08T01:41:54.000000Z 2010-05-08T02:41:54.000000Z,2010-05-08T05:41:54.000000Z  </code></pre>
 
+For either of these utilities you can get the help menu by using the --help switch
 
 ## Tests
 

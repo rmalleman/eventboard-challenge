@@ -26,7 +26,7 @@ should output
 
 <pre><code>{'lorem': 2, 'ipsum': 1}</pre></code>
 
-You can also process a text file using the --file switch
+You can also process a text file using the file switch
 
 
 ### meeting-times.py
@@ -47,5 +47,4 @@ All unit tests are in meeting_times_test.py and wordcount_test.py
 
 ## Additional Notes
 
-Initially I tried to parallelize word count using the multiprocessing module but I wasn't getting any performance gains, even on large files.  
-I suspect this is due to how expensive it is to aggregate the results
+Initially I tried to parallelize word count using the multiprocessing module but I wasn't getting any performance gains, even on large files. I suspect this is due to how expensive it is to aggregate the results

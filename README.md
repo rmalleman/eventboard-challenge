@@ -28,6 +28,7 @@ should output
 
 You can also process a text file using the --file switch
 
+
 ### meeting-times.py
 
 To condense integer or unix timestamp meeting times
@@ -38,9 +39,11 @@ for iso 3601 timestamps
 
 <pre><code>$ meeting-times.py --string_meeting 2010-05-08T00:41:54.000000Z,2010-05-08T01:41:54.000000Z 2010-05-08T02:41:54.000000Z,2010-05-08T05:41:54.000000Z  </code></pre>
 
+
 ## Tests
 
 All unit tests are in meeting_times_test.py and wordcount_test.py
+
 
 ## Additional Notes
 

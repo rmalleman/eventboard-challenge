@@ -10,8 +10,7 @@ If you have tox installed on your system you can use it to automate the creation
 
 This will create a python 3 virtualenv.  You can activate it by running:
 
-<pre><code>$ source .tox/py3/bin/activate  </code></pre>
-
+<pre><code>$ source .tox/py3/bin/activate</code></pre>
 
 ## word-count.py
 

@@ -13,14 +13,11 @@ This will create a python 3 virtualenv.  You can activate it by running:
 <pre><code>$ source .tox/py3/bin/activate  </code></pre>
 
 
-## Usage
-
-
-### word-count.py
+## word-count.py
 
 You can use this utility from the command line to either process a string or a file
 
-<pre><code>$ word-count.py --string "lorem ipsum lorem"  </code></pre>
+<pre><code>$ word-count.py --string "lorem ipsum lorem"</code></pre>
 
 should output
 
@@ -29,7 +26,7 @@ should output
 You can also process a text file using the file switch
 
 
-### meeting-times.py
+## meeting-times.py
 
 To condense integer or unix timestamp meeting times
 
